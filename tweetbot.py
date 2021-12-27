@@ -65,5 +65,5 @@ while (1):
     upload_media(g.read(),imageno)
     print(g.read())
     g.close()
-    time.sleep(30)
+    time.sleep(86400)
     count=count+1
